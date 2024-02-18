@@ -11,7 +11,7 @@ const HelloWorld = () => {
             textAlign: 'center',
             fontSize: '20px'
           }}>
-<h1>Hello:)</h1>
+<h1>Hello Shiri:)</h1>
         </div>
     )
 }
